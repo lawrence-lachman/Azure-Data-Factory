@@ -16,8 +16,8 @@
 			"recurrence": {
 				"frequency": "Minute",
 				"interval": 1,
-				"startTime": "2019-08-13T17:05:00.000Z",
-				"endTime": "2019-08-13T17:02:00.000Z",
+				"startTime": "2019-08-13T17:08:00.000Z",
+				"endTime": "2019-08-13T17:09:00.000Z",
 				"timeZone": "UTC"
 			}
 		}
