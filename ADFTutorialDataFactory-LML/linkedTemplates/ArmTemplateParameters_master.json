@@ -5,6 +5,9 @@
 		"factoryName": {
 			"value": "ADFTutorialDataFactory-LML"
 		},
+		"AzureSqlDatabase1_connectionString": {
+			"value": ""
+		},
 		"AzureStorageLinkedService_connectionString": {
 			"value": ""
 		},
